@@ -55,32 +55,6 @@ Vehicle owners often forget scheduled maintenance, upcoming service dates, and i
 * **Development Environment:** XAMPP
 * **Database Management Tool:** phpMyAdmin
 
-## ⚙️ Installation and Setup
 
-1. Install XAMPP on your computer.
-2. Clone this repository or download the project files.
-3. Extract the project files into the XAMPP `htdocs` directory.
-4. Start Apache and MySQL from the XAMPP Control Panel.
-5. Open phpMyAdmin and create the required database.
-6. Import the project's SQL file, if included in the downloaded files.
-7. Configure the database connection settings in the project.
-8. Open the application in your browser using the appropriate localhost project path.
 
-*Note: The database name, SQL filename, and exact configuration steps depend on the files included in the project.*
 
-## 🚀 Future Enhancements
-
-* SMS notifications for upcoming service appointments.
-* Online payment integration.
-* Enhanced service history and maintenance reports.
-* Mobile-friendly interface improvements.
-
-## 👩‍💻 Author
-
-**Arya Kaladharan**
-
-GitHub: aryakaladharan8-code
-
-## 📚 Project Purpose
-
-This project was developed as a practical application of web development and database management concepts to improve vehicle service scheduling and reminder management.
